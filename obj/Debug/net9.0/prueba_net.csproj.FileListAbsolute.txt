@@ -1,0 +1,15 @@
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\bin\Debug\net9.0\prueba_net.exe
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\bin\Debug\net9.0\prueba_net.deps.json
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\bin\Debug\net9.0\prueba_net.runtimeconfig.json
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\bin\Debug\net9.0\prueba_net.dll
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\bin\Debug\net9.0\prueba_net.pdb
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.AssemblyInfoInputs.cache
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.AssemblyInfo.cs
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.csproj.CoreCompileInputs.cache
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.dll
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\refint\prueba_net.dll
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.pdb
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.genruntimeconfig.cache
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\ref\prueba_net.dll
+C:\Users\andresyesidmottasarm\Documents\prueba_net\prueba_net\obj\Debug\net9.0\prueba_net.sourcelink.json
