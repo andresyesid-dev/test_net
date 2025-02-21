@@ -16,6 +16,6 @@
 ## Uso
 
 Para ejecutar la aplicación de consola, usa el siguiente comando:
-    ```bash
-    dotnet run
-    ```
+```bash
+dotnet run
+```
